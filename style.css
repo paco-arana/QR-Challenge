@@ -2,19 +2,37 @@ body {
     background-color: hsl(212, 45%, 89%)
 }
 
+h1 {
+    text-align: center;
+    width: 80%;
+    position: relative;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.25rem;
+    color: hsl(218, 44%, 22%);
+}
+
 .white-tag {
     background-color: hsl(0, 0%, 100%);
     margin: 50px auto;
     height: 900px;
-    width: 616px;
-    border-radius: 40px;
+    width: 580px;
+    border-radius: 60px;
 }
 
 p {
+    text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.75rem;
+    width: 80%;
+    position: relative;
+    margin: 30px auto;
+    color: hsl(220, 15%, 55%)
 }
 
 .QR {
-    padding: 20px;
+    width: 540px;
+    position: relative;
+    margin: 20px;
     border-radius: 40px;
 }
