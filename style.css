@@ -1,0 +1,20 @@
+body {
+    background-color: hsl(212, 45%, 89%)
+}
+
+.white-tag {
+    background-color: hsl(0, 0%, 100%);
+    margin: 50px auto;
+    height: 900px;
+    width: 616px;
+    border-radius: 40px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.QR {
+    padding: 20px;
+    border-radius: 40px;
+}
